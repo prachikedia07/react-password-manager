@@ -7,8 +7,8 @@ This project was created to practice full-stack development concepts like React 
 
 ## 📸 Demo Preview
 
-![App Screenshot](./screenshots/demo.png)  
-*(Add your screenshot in `screenshots/demo.png` to display it here.)*
+![App Screenshot](./screenshot1-passop.png)  
+
 
 ---
 
